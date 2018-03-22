@@ -1,0 +1,19 @@
+{
+  "name": "weather-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@bitbucket.org/kushal_dhar/weather-app.git"
+  },
+  "author": "Kushal Dhar",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/kushal_dhar/weather-app#readme",
+  "dependencies": {
+    "request": "^2.85.0"
+  }
+}
